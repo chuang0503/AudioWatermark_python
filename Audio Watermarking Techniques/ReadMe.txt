@@ -1,0 +1,1 @@
+bass_half can be used as host signal to run each watermarking method.
